@@ -1,0 +1,227 @@
+[
+    {
+      "id": 79,
+      "campaign_name": "My amazing campaign",
+      "campaign_theme": {
+        "id": 1,
+        "campaign_theme": "Generic"
+      },
+      "campaign_status": 0,
+      "campaign_progress": 0,
+      "current_milestone_bar": 1,
+      "current_milestone_task": 1,
+      "dates": [
+        {
+          "date_type": 0,
+          "date": "2025-07-04"
+        }
+      ],
+      "budgets": [],
+      "interventions_resume": null
+    },
+    {
+      "id": 78,
+      "campaign_name": "04/07",
+      "campaign_theme": {
+        "id": 1,
+        "campaign_theme": "Generic"
+      },
+      "campaign_status": 0,
+      "campaign_progress": 34,
+      "current_milestone_bar": 2,
+      "current_milestone_task": 2,
+      "dates": [
+        {
+          "date_type": 0,
+          "date": "2025-07-04"
+        },
+        {
+          "date_type": 2,
+          "date": "2025-07-05"
+        },
+        {
+          "date_type": 1,
+          "date": "2025-07-04"
+        },
+        {
+          "date_type": 3,
+          "date": "2025-07-31"
+        }
+      ],
+      "budgets": [
+        {
+          "id": 115,
+          "budget_type": 0,
+          "currency": "RWF",
+          "date": "2025-07-04",
+          "amount": "50.000000"
+        },
+        {
+          "id": 112,
+          "budget_type": 3,
+          "currency": "RWF",
+          "date": "2025-07-04",
+          "amount": "500000.000000"
+        },
+        {
+          "id": 113,
+          "budget_type": 4,
+          "currency": "RWF",
+          "date": "2025-07-04",
+          "amount": "500000.000000"
+        },
+        {
+          "id": 114,
+          "budget_type": 5,
+          "currency": "RWF",
+          "date": "2025-07-04",
+          "amount": "0.000000"
+        }
+      ],
+      "interventions_resume": {
+        "total_admin_entities2": 1,
+        "total_interventions": 1,
+        "completed_interventions": 0,
+        "coverage": "100.00"
+      }
+    },
+    {
+      "id": 77,
+      "campaign_name": "test ovw 03",
+      "campaign_theme": {
+        "id": 1,
+        "campaign_theme": "Generic"
+      },
+      "campaign_status": 0,
+      "campaign_progress": 25,
+      "current_milestone_bar": 2,
+      "current_milestone_task": 2,
+      "dates": [
+        {
+          "date_type": 0,
+          "date": "2025-07-03"
+        },
+        {
+          "date_type": 3,
+          "date": "2025-07-31"
+        },
+        {
+          "date_type": 2,
+          "date": "2025-07-04"
+        },
+        {
+          "date_type": 1,
+          "date": "2025-07-03"
+        }
+      ],
+      "budgets": [
+        {
+          "id": 106,
+          "budget_type": 3,
+          "currency": "RWF",
+          "date": "2025-07-03",
+          "amount": "10000.000000"
+        },
+        {
+          "id": 107,
+          "budget_type": 4,
+          "currency": "RWF",
+          "date": "2025-07-03",
+          "amount": "10000.000000"
+        },
+        {
+          "id": 108,
+          "budget_type": 5,
+          "currency": "RWF",
+          "date": "2025-07-03",
+          "amount": "0.000000"
+        }
+      ],
+      "interventions_resume": {
+        "total_admin_entities2": 1,
+        "total_interventions": 1,
+        "completed_interventions": 0,
+        "coverage": "100.00"
+      }
+    },
+    {
+      "id": 76,
+      "campaign_name": "My amazing campaign",
+      "campaign_theme": {
+        "id": 1,
+        "campaign_theme": "Generic"
+      },
+      "campaign_status": 0,
+      "campaign_progress": 0,
+      "current_milestone_bar": 1,
+      "current_milestone_task": 1,
+      "dates": [
+        {
+          "date_type": 0,
+          "date": "2025-07-03"
+        }
+      ],
+      "budgets": [],
+      "interventions_resume": null
+    },
+    {
+      "id": 75,
+      "campaign_name": "test 2// 03/07",
+      "campaign_theme": {
+        "id": 1,
+        "campaign_theme": "Generic"
+      },
+      "campaign_status": 0,
+      "campaign_progress": 31,
+      "current_milestone_bar": 2,
+      "current_milestone_task": 2,
+      "dates": [
+        {
+          "date_type": 0,
+          "date": "2025-07-03"
+        },
+        {
+          "date_type": 2,
+          "date": "2025-07-26"
+        },
+        {
+          "date_type": 1,
+          "date": "2025-07-25"
+        },
+        {
+          "date_type": 3,
+          "date": "2026-07-24"
+        }
+      ],
+      "budgets": [
+        {
+          "id": 103,
+          "budget_type": 3,
+          "currency": "RWF",
+          "date": "2025-07-03",
+          "amount": "20000.000000"
+        },
+        {
+          "id": 104,
+          "budget_type": 4,
+          "currency": "RWF",
+          "date": "2025-07-03",
+          "amount": "20000.000000"
+        },
+        {
+          "id": 105,
+          "budget_type": 5,
+          "currency": "RWF",
+          "date": "2025-07-03",
+          "amount": "0.000000"
+        }
+      ],
+      "interventions_resume": {
+        "total_admin_entities2": 2,
+        "total_interventions": 2,
+        "completed_interventions": 0,
+        "coverage": "100.00"
+      }
+    }
+  ]
+  
