@@ -1,10 +1,8 @@
 {
-  "loginSuccess": [
-    {
-      "token": "24b327549b6866c4c759538330cdc0cd22f25d29",
-      "country": "en"
-    }
-  ],
+  "loginSuccess": {
+    "token": "24b327549b6866c4c759538330cdc0cd22f25d29",
+    "country": "en"
+  },
   "campaign-cards": [
     {
       "id": 79,
